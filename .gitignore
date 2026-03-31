@@ -1,0 +1,13 @@
+# 临时目录与中间产物
+review_tmp/
+tmp/*
+!tmp/.gitkeep
+
+# OpenClaw 运行态 / 工作区状态
+.openclaw/
+
+# Obsidian workspace (个人布局配置)
+.obsidian/workspace.json
+
+# macOS 常见垃圾
+.DS_Store
